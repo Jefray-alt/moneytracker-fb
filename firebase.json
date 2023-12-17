@@ -1,7 +1,4 @@
 {
-  "functions": {
-    "source": "functions"
-  },
   "hosting": {
     "public": "dist",
     "ignore": [
@@ -17,9 +14,6 @@
     ]
   },
   "emulators": {
-    "functions": {
-      "port": 5001
-    },
     "hosting": {
       "port": 5000
     },
